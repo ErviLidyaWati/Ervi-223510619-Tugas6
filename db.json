@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": "2",
+      "title": "judul 2",
+      "content": "Ini Content 2"
+    },
+    {
+      "id": null,
+      "title": "",
+      "content": "bb"
+    },
+    {
+      "id": null,
+      "title": "okkkk",
+      "content": "hhh"
+    },
+    {
+      "id": null,
+      "title": "kiii",
+      "content": "jjrjj"
+    },
+    {
+      "id": null,
+      "title": "hopfho",
+      "content": "kkkkk"
+    },
+    {
+      "id": null,
+      "title": "khiokjpkjlc",
+      "content": "mnjrh3l"
+    },
+    {
+      "id": null,
+      "title": "guiywi2h",
+      "content": "bvjkhwqjdko"
+    },
+    {
+      "id": null,
+      "title": "hehioh",
+      "content": "bef"
+    }
+  ]
+}
